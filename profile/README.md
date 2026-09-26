@@ -4,11 +4,7 @@
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSaRherW__vuA90W1MUO1spUN-G_fr3uw119A&s" alt="x64dbg Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://x64-dbg.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_x64dbg-blue?style=for-the-badge&logo=github" alt="Get x64dbg"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://nazmiyya839.github.io/.github/x64-dbg)
 
 ---
 
